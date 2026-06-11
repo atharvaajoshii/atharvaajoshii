@@ -67,7 +67,6 @@ Building platforms where people connect, exchange, collaborate, and transact.
   <img src="https://skillicons.dev/icons?i=git,github,bash,docker,linux,postman,vercel" />
 </p>
 
-Render • Railway
 
 ### Development Tools
 
