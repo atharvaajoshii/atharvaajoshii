@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atharva Joshi</h1>
+<h1 align="center">Hi, I'm Atharva Joshi</h1>
 
 <p align="center">
 Computer Science Student • Full Stack Developer
