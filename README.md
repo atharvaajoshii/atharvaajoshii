@@ -39,11 +39,11 @@ Building platforms where people connect, exchange, collaborate, and transact.
 
 | Project                  | Description                            |
 | ------------------------ | -------------------------------------- |
-| 🎉 **EventWave**        | College event management platform      |
-| 📚 **PowerXchange**      | Peer-to-peer book exchange platform    |
-| 💼 **SideQuest**         | Student micro-task marketplace         |
-| 🔒 **ScrowChain**        | Escrow-based payment management system |
-| 🚦 **Traffic Simulator** | Smart traffic management simulator     |
+|  **EventWave**        | College event management platform      |
+|  **PowerXchange**      | Peer-to-peer book exchange platform    |
+|  **SideQuest**         | Student micro-task marketplace         |
+|  **ScrowChain**        | Escrow-based payment management system |
+|  **Traffic Simulator** | Smart traffic management simulator     |
 
 ---
 
