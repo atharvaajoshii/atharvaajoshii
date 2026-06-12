@@ -20,7 +20,6 @@ Building platforms where people connect, exchange, collaborate, and transact.
 
 * 🎓 Computer Science Student
 * 💻 Building full-stack platforms using React, Node.js, and SQL
-* 🌱 Currently developing SideQuest and ScrowChain
 * ⚡ Interested in Product Development, Marketplaces, and Platform Engineering
 * 🚀 Passionate about turning ideas into real-world products
 * 🎵 Carnatic Music Enthusiast
