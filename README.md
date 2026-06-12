@@ -22,7 +22,7 @@ Building platforms where people connect, exchange, collaborate, and transact.
 * 💻 Building full-stack platforms using React, Node.js, and SQL
 * ⚡ Interested in Product Development, Marketplaces, and Platform Engineering
 * 🚀 Passionate about turning ideas into real-world products
-* 🎵 Carnatic Music Enthusiast
+* 🎵 Music Enthusiast
 
 ---
 
