@@ -79,8 +79,6 @@ Building platforms where people connect, exchange, collaborate, and transact.
   <img src="https://skillicons.dev/icons?i=figma,notion" />
 </p>
 
-Canva
-
 ---
 
 ## 🧠 Problem Solving
