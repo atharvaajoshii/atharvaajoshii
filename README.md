@@ -9,7 +9,7 @@ Building platforms where people connect, exchange, collaborate, and transact.
 </p>
 
 <p align="center">
-  <a href="mailto:jatharva1701@gmail.com">Email</a> •
+  <a href="https://atharvaajoshiiportfolio.vercel.app/">Portfolio</a> •
   <a href="https://linkedin.com/in/atharvaajoshii">LinkedIn</a> •
   <a href="https://github.com/atharvaajoshii">GitHub</a>
 </p>
