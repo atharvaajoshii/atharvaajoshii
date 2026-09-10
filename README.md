@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Atharva Joshi</h1>
 
 <p align="center">
-Computer Science Student • Full Stack Developer
+  Computer Science Student • Full Stack Developer
 </p>
 
 <p align="center">
-Building platforms where people connect, exchange, collaborate, and transact.
+  Building full-stack products and platforms across marketplaces, payments, collaboration, and web applications.
 </p>
 
 <p align="center">
@@ -16,83 +16,75 @@ Building platforms where people connect, exchange, collaborate, and transact.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🎓 Computer Science Student
-* 💻 Building full-stack platforms using React, Node.js, and SQL
-* ⚡ Interested in Product Development, Marketplaces, and Platform Engineering
-* 🚀 Passionate about turning ideas into real-world products
-* 🎵 Music Enthusiast
-
----
-
-## 🎯 Current Focus
-
-* Building **SideQuest** (Student Micro-Task Marketplace)
-* Improving System Design & Backend Engineering
-* Solving Data Structures & Algorithms Problems
+- Computer Science Student
+- Full Stack Developer focused on building real-world web applications
+- Working across frontend, backend, databases, APIs, authentication, and application architecture
+- Interested in Product Engineering, Platform Engineering, and Marketplace Systems
+- Comfortable working in collaborative Git-based development environments
 
 ---
 
-## 🚀 Featured Projects
+## Current Focus
 
-| Project                  | Description                            |
-| ------------------------ | -------------------------------------- |
-|  **EventWave**        | College event management platform      |
-|  **PowerXchange**      | Peer-to-peer book exchange platform    |
-|  **SideQuest**         | Student micro-task marketplace         |
-|  **ScrowChain**        | Escrow-based payment management system |
-|  **Traffic Simulator** | Smart traffic management simulator     |
+- Building and evolving **W3HIRE**, a full-stack platform connecting clients and freelancers
+- Building **SideQuest**, a student micro-task marketplace
+- Improving System Design and Backend Engineering
+- Strengthening Data Structures and Algorithms
+- Learning and applying scalable application architecture
 
 ---
 
-## 🛠 Tech Stack
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| **W3HIRE** | Full-stack platform connecting clients and freelancers with messaging, payments, and administrative workflows |
+| **SideQuest** | Student micro-task marketplace connecting students for short-term tasks and opportunities |
+| **EventWave** | College event management platform for organizing and managing campus events |
+| **PowerXchange** | Peer-to-peer platform for students to exchange academic books |
+
+---
+
+## Tech Stack
 
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,r" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
 </p>
 
-### Full Stack Development
+### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,vite,nodejs,express,mysql,postgresql,mongodb,supabase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite" />
 </p>
 
-### DevOps & Tools
+### Backend & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql,mongodb,sqlite,supabase,prisma" />
+</p>
+
+### Tools & DevOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,bash,docker,linux,postman,vercel" />
 </p>
 
-
-### Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" />
-</p>
-
-### Design & Productivity
+### Development & Design
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,notion" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,figma,notion" />
 </p>
 
 ---
 
-## 🧠 Problem Solving
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/mooodyycoder?theme=dark\&font=Karma)](https://leetcode.com/mooodyycoder/)
-
----
-
-## 📊 GitHub Stats
+## Problem Solving
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atharvaajoshii&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvaajoshii&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvaajoshii&theme=github-compact" />
+  <a href="https://leetcode.com/atharvaajoshii/">
+    <img src="https://leetcard.jacoblin.cool/atharvaajoshii?theme=dark&font=Karma" />
+  </a>
 </p>
